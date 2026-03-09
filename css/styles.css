@@ -896,8 +896,9 @@
 
     }
    .title-icon{
-  width: clamp(18px,4vw,32px);
+  width: clamp(75px,4vw,150px);
 }
+
 
 
 
