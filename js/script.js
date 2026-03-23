@@ -56,10 +56,10 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 
 //google drive link
 const images = [
-"https://drive.google.com/thumbnail?id=1fsKy5aHh2CH0VlRt9uBplkSWRhgqHLVD=w1000",
+"https://drive.google.com/thumbnail?id=1fsKy5aHh2CH0VlRt9uBplkSWRhgqHLVD&sz=w1000",
 "https://drive.google.com/thumbnail?id=1-9CikNKPrsd5VBQp4vE171I36Ik3GmyV&sz=w1000",
 "https://drive.google.com/thumbnail?id=1nh43k8SP6z1Q3QqqZgENkA39QFTHJA2n&sz=w1000",
-"https://drive.google.com/thumbnail?id=1bmiC7ZQlJ0E-xo4e06bF6a3lAGYFm-3_&sz=w1000",
+"https://drive.google.com/thumbnail?id=1bmiC7ZQlJ0E-xo4e06bF6a3lAGYFm-3_&sz=w1000"
 ];
 
 
