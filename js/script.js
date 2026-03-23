@@ -77,7 +77,7 @@ item.className = "gallery-item";
 
 item.innerHTML = `
 <img src="${images[i]}" alt="CCTV Camera Installation, GPS Services, Bike GPS, Car GPS">
-<div class="gallery-overlay">MST Installation</div>
+<div class="gallery-overlay">MSTs</div>
 `;
 
 gallery.appendChild(item);
