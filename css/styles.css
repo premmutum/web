@@ -898,6 +898,9 @@
    .title-icon{
   width: clamp(50px,4vw,75px);
 }
+.justify-text {
+  text-align: justify;
+}
 
 
 
